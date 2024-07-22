@@ -1,1 +1,1 @@
-dil e nadaan tujhe hua kya hai
+We need to change user by using "sudo su", then we can edit the mumbai1 file, beacuse the file has only root permition.
